@@ -1,0 +1,29 @@
+{
+        "Name":"Wahyu Hidayat",
+        "Addres":"Telagasari,Karawang",
+        "Hoobies":[
+            {
+                "Hobbies":"Hiking"
+            }
+        ],
+        "Is_Married":false,
+        "School":{
+            "School":{ "Name":"SMK PGRI TELAGASARI", "Key": 20217795}
+            },
+        "Skill":[
+            {
+             "Name":"Html", "score": 80
+            },
+            {
+                "Name":"Java", "score": 50
+               },
+               {
+                "Name":"CSS", "score": 70
+               },
+               {
+                "Name":"PHP", "score": 60
+               }
+        ]
+            
+    
+ }
